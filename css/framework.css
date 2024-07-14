@@ -1,0 +1,374 @@
+/*Start Box*/
+.d-flex {
+  display: flex;
+}
+.d-block {
+  display: block;
+}
+.al-cen {
+  align-items: center;
+}
+.just-bet {
+  justify-content: space-between;
+}
+.fdir-col {
+  flex-direction: column;
+}
+.fdir-r {
+  flex-direction: row;
+}
+
+.f-wrap {
+  flex-wrap: wrap;
+}
+.jus-cen {
+  justify-content: center;
+}
+.gap-20 {
+  gap: 20px;
+}
+/* start com*/
+.fl-cen-bet {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.fl-cen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn {
+  background-color: rgb(58, 58, 167);
+  color: white;
+  width: fit-content;
+  border: none;
+  cursor: pointer;
+}
+
+.money {
+  .icon {
+    background-color: rgba(58, 58, 167, 0.202);
+    width: 80px;
+    height: 80px;
+    margin-right: 15px;
+  }
+  .progress {
+    background-color: rgba(58, 58, 167, 0.202);
+  }
+  .blue {
+    background-color: blue;
+  }
+}
+
+.project {
+  .icon {
+    background-color: rgba(204, 103, 35, 0.202);
+    width: 80px;
+    height: 80px;
+    margin-right: 15px;
+  }
+  .progress {
+    background-color: rgba(204, 103, 35, 0.202);
+  }
+  .orange {
+    background-color: orange;
+  }
+}
+
+.team {
+  .icon {
+    background-color: rgba(33, 182, 62, 0.202);
+    width: 80px;
+    height: 80px;
+    margin-right: 15px;
+  }
+  .progress {
+    background-color: rgba(33, 182, 62, 0.202);
+  }
+  .green {
+    background-color: green;
+  }
+}
+
+/*end com */
+
+/*end Box*/
+
+/*start bg*/
+.bg-white {
+  background-color: white;
+}
+
+.bg-gray {
+  background-color: #d8d8de;
+}
+.c-black {
+  color: black;
+}
+
+.c-gray {
+  color: #838389;
+}
+.bg-basic {
+  background-color: #ababc4;
+}
+
+.bg-blue {
+  background-color: #4f4fd5;
+}
+
+.bg-lblue {
+  background-color: #1da1f2;
+}
+
+.bg-mblue {
+  background-color: #1877f2;
+}
+
+.bg-orange {
+  background-color: #ff9e43;
+}
+
+.bg-green {
+  background-color: rgb(106, 178, 106);
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.bg-red {
+  background-color: rgb(223, 43, 43);
+}
+.c-blue {
+  color: rgb(58, 58, 167);
+}
+
+.c-white {
+  color: white;
+}
+
+.c-orange {
+  color: orange;
+}
+
+.c-green {
+  color: green;
+}
+
+.c-red {
+  color: red;
+}
+
+/*end bg*/
+
+/* positions start */
+.p-rel {
+  position: relative;
+}
+.p-abs {
+  position: absolute;
+}
+.p-fix {
+  position: fixed;
+}
+
+/* positions end */
+
+/*paddig + margin start*/
+.m-auto {
+  margin: auto;
+}
+.m-0 {
+  margin: 0px;
+}
+.mt-0 {
+  margin-top: 0px;
+}
+
+.mb-0 {
+  margin-bottom: 0px;
+}
+.p-5 {
+  padding: 5px;
+}
+.mt-5 {
+  margin-top: 5px;
+}
+.mb-5 {
+  margin-bottom: 5px;
+}
+.p-10 {
+  padding: 10px;
+}
+.m-10 {
+  margin: 10px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.pt {
+  padding-top: 10px;
+}
+.ml-10 {
+  margin-left: 10px;
+}
+.ml-15 {
+  margin-left: 15px;
+}
+.ml-20 {
+  margin-left: 20px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+.mt-15 {
+  margin-top: 15px;
+}
+.mr-15 {
+  margin-right: 15px;
+}
+.mb-15 {
+  margin-bottom: 15px;
+}
+.p-15 {
+  padding: 15px;
+}
+.m-15 {
+  margin: 15px;
+}
+.pl-15 {
+  padding-left: 15px;
+}
+
+.mb-15 {
+  margin-bottom: 15px;
+}
+.pb-15 {
+  padding-bottom: 15px;
+}
+.p-20 {
+  padding: 20px;
+}
+.m-20 {
+  margin: 20px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mt-25 {
+  margin-top: 25px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.mb-25 {
+  margin-bottom: 25px;
+}
+/*paddig + margin end*/
+
+/* Text start*/
+.txt-cen {
+  text-align: center;
+}
+.fs-14 {
+  font-size: 14px;
+}
+
+.fs-18 {
+  font-size: 18px;
+}
+.fs-25 {
+  font-size: 25px;
+}
+
+.fs-20 {
+  font-size: 20px;
+}
+
+.fw-bold {
+  font-weight: bold;
+}
+/* Text end*/
+
+/*list style start*/
+.ul-sty {
+  list-style: none;
+  padding: 0;
+}
+/*list style end*/
+
+/*rounded start*/
+.rad-6 {
+  border-radius: 6px;
+}
+
+.rad-10 {
+  border-radius: 10px;
+}
+
+.rad-half {
+  border-radius: 50%;
+}
+/*rounded end*/
+
+.b-ccc {
+  border: 1px solid #ccc;
+}
+.b-none {
+  border: none;
+}
+
+/* width start*/
+.w-full {
+  width: 100%;
+}
+.h-full {
+  height: 100%;
+}
+
+.w-fit {
+  width: fit-content;
+}
+/* width end*/
+
+@keyframes ch-bg-color {
+  from {
+    background-color: #4f4fd5;
+  }
+  to {
+    background-color: white;
+  }
+}
+
+@keyframes go-up {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-3px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@media (max-width: 700px) {
+  .hide-for-mob {
+    display: none;
+  }
+}
+
+@media (max-width: 1115px) {
+  .search {
+    input {
+      &::placeholder {
+        opacity: 0;
+      }
+    }
+  }
+}
